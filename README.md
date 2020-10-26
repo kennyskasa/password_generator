@@ -1,2 +1,1 @@
-# password_generator
-Password generator challenge
+Password Generator Starter Code
